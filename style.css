@@ -21,7 +21,7 @@ nav ul{
     list-style: none;
 }
 nav ul li{
-    padding: 20px;
+    padding: 10px;
 }
 nav ul li a{
     text-decoration: none;
@@ -43,8 +43,8 @@ main{
     cursor: pointer;
 }
 .products{
-    background-color: lightsalmon;
-    padding: 1em;
+    background-color: lightgreen;
+    padding: 2em;
 }
 .product-grid{
     display: grid;
